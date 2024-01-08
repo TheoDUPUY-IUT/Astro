@@ -25,5 +25,3 @@ Bienvenue sur mon _nouveau blog_ dédié à l'apprentissage d'Astro ! Ici, je va
 ## Ce qui vient ensuite
 
 Je vais terminer le tutoriel Astro, puis continuer à ajouter plus d'articles. Restez à l'écoute pour en savoir plus.
-
-Retour : `src/pages/blog/`
